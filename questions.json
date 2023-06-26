@@ -1,0 +1,84 @@
+[
+    {
+        "question": "Trong bài hát “Mẹ yêu không nào”, con cò bé bé đậu ở đâu?",
+        "choice1": "Cành tre",
+        "choice2": "Cành cọ",
+        "choice3": "Cành hoa",
+        "choice4": "Cành trúc",
+        "answer": 1
+    },
+    {
+        "question": "Quốc gia nào dưới đây không thuộc châu Á?",
+        "choice1": "Lào",
+        "choice2": "Mông Cổ",
+        "choice3": "Hàn Quốc",
+        "choice4": "Hà Lan",
+        "answer": 4
+    },
+    {
+        "question": "El Classico là trận đấu giữa 2 đội bóng nào?",
+        "choice1": "Barcelona, Real Madrid",
+        "choice2": "Barcelona,  Atletico Madrid",
+        "choice3": "Real Madrid,  Atletico Madrid",
+        "choice4": "Real Madrid, Chelsea",
+        "answer": 1
+    },
+    {
+        "question": "Đâu là tên một môn võ bắt nguồn từ Việt Nam?",
+        "choice1": "Thái cực quyền",
+        "choice2": "Vịnh Xuân quyền",
+        "choice3": "Túy quyền",
+        "choice4": "Vovinam",
+        "answer": 4
+    },
+    {
+        "question": "Cuốn sách nào do Khổng Tử và các học trò của ông biên soạn?",
+        "choice1": "Luận Ngữ",
+        "choice2": "Tam tự kinh",
+        "choice3": "Trung Dung",
+        "choice4": "Ngũ kinh",
+        "answer": 1
+    },
+    {
+        "question": "Con nào biết bơi?",
+        "choice1": "Con chim",
+        "choice2": "Con cá",
+        "choice3": "Con cáo",
+        "choice4": "Con chó",
+        "answer": 2
+    },
+    {
+        "question": "Con nào sủa gâu gâu?",
+        "choice1": "Con chim",
+        "choice2": "Con cá",
+        "choice3": "Con cáo",
+        "choice4": "Con chó",
+        "answer": 4
+    },
+    {
+        "question": "Chọn con cáo đi...!",
+        "choice1": "Con chim",
+        "choice2": "Con cá",
+        "choice3": "Con cáo",
+        "choice4": "Con chó",
+        "answer": 3
+    },
+    {
+    
+        "question": "Con nào biết bay?",
+        "choice1": "Con chim",
+        "choice2": "Con cá",
+        "choice3": "Con cáo",
+        "choice4": "Con chó",
+        "answer": 1
+    },
+    {
+    
+        "question": "Ai yêu Liên?",
+        "choice1": "DũngX",
+        "choice2": "Liên Vũ",
+        "choice3": "LV",
+        "choice4": "Nobody",
+        "answer": 1
+    }
+]
